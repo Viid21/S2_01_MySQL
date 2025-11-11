@@ -1,5 +1,6 @@
 # 🧑‍💻 Task S2.01. MySQL Database Modeling – Optics & Pizzeria  
 **Author:** David Rey  
+**Corrected by:** Carlos ([carlosPc1987](https://github.com/RotColton/P2P-reviews-java/issues/151#issuecomment-3510520242))  
 
 ## 📄 Description  
 This project focuses on **database modeling** for two different business scenarios:  
